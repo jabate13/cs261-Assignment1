@@ -1,0 +1,3 @@
+C:\Users\Jered Abate\Downloads>python system_test.py
+This an acceptable version of Python, version 3.8.
+Numpy is installed, you are good to go here!
